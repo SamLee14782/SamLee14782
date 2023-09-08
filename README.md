@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+this is a h1
+
+
+***
+- Mail : dbrcjftk94@gmail.com
+- Blog :
+- Notion :
+***
+
+Stack
+- Python
+- Pandas
+- Matplotlib
+- Java
+
+***
+
+***
+
 <!--
 **SamLee14782/SamLee14782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
